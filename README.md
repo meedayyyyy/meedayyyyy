@@ -1,6 +1,12 @@
-## hi, there 💜
-### about me
-i am a designer who's passionate about technology and currently transitioning paths into programming.
+## hi, there 
+**about me**
+
+
+a rare breed of iOS dev 😀
+
+---
+
+*bio under construction*
 
 <!--
 **meedayyyyy/meedayyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
