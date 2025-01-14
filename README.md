@@ -6,7 +6,7 @@ a rare breed of iOS dev 😀
 
 ---
 
-*bio under construction* 🚧
+*bio under construction* 
 
 <!--
 **meedayyyyy/meedayyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
